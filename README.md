@@ -3,8 +3,10 @@
 ### A Java Indenter for the 21st century.
 ![Image of codifier](https://github.com/giorgoslivas/Codyfier/blob/master/Readme_resources/logo.png)
 ## Getting Started
-First thing to do, is [download](https://github.com/giorgoslivas/Codyfier/releases) the latest release, and unzip it. Then you need to open a terminal, navigate to the correct directory and type
-
+If you are using Windows follow the instructions under 
+[Using Codifier.jar](https://github.com/giorgoslivas/Codyfier#using-codifierjar). 
+If you are a Mac or linux user is easier 
+[Using Codifier.sh](https://github.com/giorgoslivas/Codyfier#using-codifiersh-recommended)
 ### Using Codifier.jar
 1. [Download](https://github.com/giorgoslivas/Codyfier/releases) the Codifier.jar
 2. Open a cmd 
