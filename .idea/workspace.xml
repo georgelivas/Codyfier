@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="code.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="code.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/code.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="302">
@@ -33,17 +33,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="261">
-                <caret line="84" column="52" lean-forward="true" selection-start-line="84" selection-start-column="52" selection-end-line="84" selection-end-column="52" />
+              <first_editor relative-caret-position="133">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding>
-                  <marker date="1515955976894" expanded="true" signature="636:668" ph="//..." />
-                  <marker date="1515955976894" expanded="true" signature="728:1287" ph="{...}" />
-                  <marker date="1515955976894" expanded="true" signature="1394:1426" ph="//..." />
-                  <marker date="1515955976894" expanded="true" signature="1488:2438" ph="{...}" />
+                  <marker date="1515956075201" expanded="true" signature="650:682" ph="//..." />
+                  <marker date="1515956075201" expanded="true" signature="742:1301" ph="{...}" />
+                  <marker date="1515956075201" expanded="true" signature="1408:1440" ph="//..." />
+                  <marker date="1515956075201" expanded="true" signature="1502:2452" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -112,8 +112,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.class" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/company/code.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -326,7 +326,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3059000" />
+    <option name="totallyTimeSpent" value="3137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -739,22 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="261">
-            <caret line="84" column="52" lean-forward="true" selection-start-line="84" selection-start-column="52" selection-end-line="84" selection-end-column="52" />
-            <folding>
-              <marker date="1515955976894" expanded="true" signature="636:668" ph="//..." />
-              <marker date="1515955976894" expanded="true" signature="728:1287" ph="{...}" />
-              <marker date="1515955976894" expanded="true" signature="1394:1426" ph="//..." />
-              <marker date="1515955976894" expanded="true" signature="1488:2438" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/code1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -768,6 +752,22 @@
         <state relative-caret-position="302">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding>
+              <marker date="1515956075201" expanded="true" signature="650:682" ph="//..." />
+              <marker date="1515956075201" expanded="true" signature="742:1301" ph="{...}" />
+              <marker date="1515956075201" expanded="true" signature="1408:1440" ph="//..." />
+              <marker date="1515956075201" expanded="true" signature="1502:2452" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
