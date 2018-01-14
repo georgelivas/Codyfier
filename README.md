@@ -71,7 +71,7 @@ System.out.println( "Blast Off");// Write Blast off
 
 ### Output
 
-```java
+```javascript
 import java.lang.Thread;                                 //Use External class
 
 // a comment

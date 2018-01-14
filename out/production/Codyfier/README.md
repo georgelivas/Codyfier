@@ -1,16 +1,36 @@
-# CodiFier
+# Codyfier
 
 ### A Java Indenter for the 21st century.
-![Image of codifier](https://github.com/giorgoslivas/Codyfier/blob/master/Readme_resources/Screen%20Shot%202018-01-14%20at%2016.03.22.png)
+![Image of codifier](https://github.com/giorgoslivas/Codyfier/blob/master/Readme_resources/logo.png)
 ## Getting Started
-First thing to do, is [download](https://github.com/giorgoslivas/Codyfier/releases) the fip file, and unzip it. then you need t compail the code, do that by oepning a terminal, navigating to the correct directory and then type
-
+If you are using Windows follow the instructions under 
+[Using Codifier.jar](https://github.com/giorgoslivas/Codyfier#using-codifierjar). 
+If you are a Mac or linux user is easier 
+[Using Codifier.sh](https://github.com/giorgoslivas/Codyfier#using-codifiersh-recommended)
 ### Using Codifier.jar
+1. [Download](https://github.com/giorgoslivas/Codyfier/releases) the Codifier.jar
+2. Open a cmd 
+3. Navigate to the correct directory
+4. Then type:
+
 ```
 java -jar "file's path"/Codyfier.jar "code's path"/code.txt 
 ```
 
-### Using Codifier.sh [recomended]
+### Using Codifier.sh [recommended]
+1. [Download](https://github.com/giorgoslivas/Codyfier/releases) the Codifier.zip
+2. Unzip the files
+3. Open a terminal
+4. Navigate to the unzipped folder 
+5. Then type:
+
+```
+sh Codyfier.sh
+```
+
+>**important: don't move the shell file from the folder!**
+
+
 
 ## System Requirements
 
@@ -18,10 +38,9 @@ java -jar "file's path"/Codyfier.jar "code's path"/code.txt
 * Java Virtual Machine
 
 ## Results
-
 ### Input
 
-```
+```java
 import java.lang.Thread;//Use External class
 
 // a comment
@@ -52,7 +71,7 @@ System.out.println( "Blast Off");// Write Blast off
 
 ### Output
 
-```
+```java
 import java.lang.Thread;                                 //Use External class
 
 // a comment
@@ -79,4 +98,17 @@ class Countdown {
     System.out.println( "Blast Off");                    // Write Blast off
   }
 }
+
+                  _            ___  _               
+                 | |          / __)(_)              
+  ____  ___    __| | _   _  _| |__  _  _____   ____ 
+ / ___)/ _ \  / _  || | | |(_   __)| || ___ | / ___)
+( (___| |_| |( (_| || |_| |  | |   | || ____|| |    
+ \____)\___/  \____| \__  |  |_|   |_||_____)|_|    
+                    (____/                          
+</ code > by George Livas
 ```
+
+
+## Licence
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/giorgoslivas/Codyfier/blob/master/LICENSE) file for details
