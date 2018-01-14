@@ -21,7 +21,7 @@ java -jar "file's path"/Codyfier.jar "code's path"/code.txt
 
 ### Input
 
-```
+```java
 import java.lang.Thread;//Use External class
 
 // a comment
@@ -52,7 +52,7 @@ System.out.println( "Blast Off");// Write Blast off
 
 ### Output
 
-```
+```java
 import java.lang.Thread;                                 //Use External class
 
 // a comment
