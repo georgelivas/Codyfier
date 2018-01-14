@@ -6,7 +6,8 @@
 First thing to do, is [download](https://github.com/giorgoslivas/Codyfier/releases) the latest release, and unzip it. Then you need to open a terminal, navigate to the correct directory and type
 
 ### Using Codifier.jar
-```jshelllanguage
+
+```
 java -jar "file's path"/Codyfier.jar "code's path"/code.txt 
 ```
 
