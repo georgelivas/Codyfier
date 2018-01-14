@@ -89,3 +89,7 @@ class Countdown {
                     (____/                          
 </ code > by George Livas
 ```
+
+
+## Licence
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/giorgoslivas/Codyfier/blob/master/LICENSE) file for details
