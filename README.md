@@ -1,7 +1,7 @@
 # CodiFier
 
 ### A Java Indenter for the 21st century.
-![Image of codifier](https://github.com/giorgoslivas/Codyfier/blob/master/Readme_resources/Screen%20Shot%202018-01-14%20at%2016.03.22.png)
+![Image of codifier](https://github.com/giorgoslivas/Codyfier/blob/master/Readme_resources/logo.png)
 ## Getting Started
 First thing to do, is [download](https://github.com/giorgoslivas/Codyfier/releases) the fip file, and unzip it. then you need t compail the code, do that by oepning a terminal, navigating to the correct directory and then type
 
