@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5ee9a63-cf94-4b4e-9102-58b0e4e62c58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Codyfier.iml" afterPath="$PROJECT_DIR$/.idea/Codyfier.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/georgelivas.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/georgelivas.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/mini_project_1.iml" afterPath="$PROJECT_DIR$/mini_project_1.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codyfier/.idea/Codyfier.iml" afterPath="$PROJECT_DIR$/out/production/Codyfier/.idea/Codyfier.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codyfier/.idea/misc.xml" afterPath="$PROJECT_DIR$/out/production/Codyfier/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codyfier/.idea/modules.xml" afterPath="$PROJECT_DIR$/out/production/Codyfier/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codyfier/.idea/vcs.xml" afterPath="$PROJECT_DIR$/out/production/Codyfier/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codyfier/README.md" afterPath="$PROJECT_DIR$/out/production/Codyfier/README.md" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codyfier/mini_project_1.iml" afterPath="$PROJECT_DIR$/out/production/Codyfier/mini_project_1.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini project 1/com/company/BIO.class" afterPath="$PROJECT_DIR$/out/production/mini project 1/com/company/BIO.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini project 1/com/company/JavaLine.class" afterPath="$PROJECT_DIR$/out/production/mini project 1/com/company/JavaLine.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini project 1/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/mini project 1/com/company/Main.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini project 1/com/company/Program.class" afterPath="$PROJECT_DIR$/out/production/mini project 1/com/company/Program.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini project 1/com/company/Test.class" afterPath="$PROJECT_DIR$/out/production/mini project 1/com/company/Test.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini project 1/com/company/code.txt" afterPath="$PROJECT_DIR$/out/production/mini project 1/com/company/code.txt" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/company/CUI.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/company/CUI.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/company/Indenter.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/company/Indenter.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/company/JavaLine.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/company/JavaLine.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/company/JavaLineD.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/company/JavaLineD.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/company/Main.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/company/code.txt" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/company/code.txt" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/company/code1.txt" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/company/code1.txt" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/AbstractLayout.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/AbstractLayout.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/DimensionInfo.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/DimensionInfo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/GridConstraints.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/GridConstraints.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/GridLayoutManager.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/GridLayoutManager.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/HorizontalInfo.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/HorizontalInfo.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/LayoutState.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/LayoutState.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/Spacer.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/Spacer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/SupportCode.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/SupportCode.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/Util.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/Util.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/VerticalInfo.class" afterPath="$PROJECT_DIR$/out/production/mini_project_1/com/intellij/uiDesigner/core/VerticalInfo.class" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Indenter.java" afterPath="$PROJECT_DIR$/src/com/company/Indenter.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/JavaLine copy.java" afterPath="$PROJECT_DIR$/src/com/company/JavaLine copy.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/JavaLine.java" afterPath="$PROJECT_DIR$/src/com/company/JavaLine.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" afterPath="$PROJECT_DIR$/src/com/company/Test.java" />
-    </list>
+    <list default="true" id="a5ee9a63-cf94-4b4e-9102-58b0e4e62c58" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,35 +127,6 @@
             <path>
               <item name="Codyfier" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codyfier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codyfier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codyfier" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codyfier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codyfier" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codyfier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codyfier" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Codyfier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codyfier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codyfier" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codyfier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codyfier" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,7 +274,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1171000" />
+    <option name="totallyTimeSpent" value="1401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -382,6 +311,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
