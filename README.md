@@ -6,12 +6,29 @@
 First thing to do, is [download](https://github.com/giorgoslivas/Codyfier/releases) the latest release, and unzip it. Then you need to open a terminal, navigate to the correct directory and type
 
 ### Using Codifier.jar
+1. [Download](https://github.com/giorgoslivas/Codyfier/releases) the Codifier.jar
+2. Open a cmd 
+3. Navigate to the correct directory
+4. Then type:
 
 ```
 java -jar "file's path"/Codyfier.jar "code's path"/code.txt 
 ```
 
-### Using Codifier.sh [recomended]
+### Using Codifier.sh [recommended]
+1. [Download](https://github.com/giorgoslivas/Codyfier/releases) the Codifier.zip
+2. Unzip the files
+3. Open a terminal
+4. Navigate to the unzipped folder 
+5. Then type:
+
+```
+sh Codyfier.sh
+```
+
+>**important: don't move the shell file from the folder!**
+
+
 
 ## System Requirements
 
@@ -19,7 +36,6 @@ java -jar "file's path"/Codyfier.jar "code's path"/code.txt
 * Java Virtual Machine
 
 ## Results
-
 ### Input
 
 ```java
