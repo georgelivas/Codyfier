@@ -1,6 +1,3 @@
-# Codyfier
-
-### A Java Indenter for the 21st century.
 ![Image of codifier](https://github.com/giorgoslivas/Codyfier/blob/master/Readme_resources/logo.png)
 ## Getting Started
 If you are using Windows follow the instructions under 
