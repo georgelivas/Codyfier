@@ -1,6 +1,6 @@
 ![Image of codifier](./Readme_resources/logo.png)
 ## What is Codyfier?
-Is a code indenter and beautifier. It correctly indents your code with 4 spaces and agings the comments at the end of the longest line of code. 
+Is a code indenter and beautifier. It correctly indents your code with 4 spaces and aligns the comments at the end of the longest line of code. 
 
 ## Getting Started
 If you are using Windows follow the instructions under 
