@@ -1,4 +1,4 @@
-![Image of codifier](https://github.com/giorgoslivas/Codyfier/blob/master/Readme_resources/logo.png)
+![Image of codifier](./Readme_resources/logo.png)
 ## Getting Started
 If you are using Windows follow the instructions under 
 [Using Codifier.jar](https://github.com/giorgoslivas/Codyfier#using-codifierjar). 
