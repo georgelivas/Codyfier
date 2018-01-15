@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5ee9a63-cf94-4b4e-9102-58b0e4e62c58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,13 +37,13 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="86">
-                <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding>
-                  <marker date="1516031449767" expanded="true" signature="1253:1285" ph="//..." />
-                  <marker date="1516031449767" expanded="true" signature="1345:1904" ph="{...}" />
-                  <marker date="1516031449767" expanded="true" signature="2011:2043" ph="//..." />
-                  <marker date="1516031449767" expanded="true" signature="2105:3055" ph="{...}" />
+                  <marker date="1516031816700" expanded="true" signature="1217:1249" ph="//..." />
+                  <marker date="1516031816700" expanded="true" signature="1309:1868" ph="{...}" />
+                  <marker date="1516031816700" expanded="true" signature="1975:2007" ph="//..." />
+                  <marker date="1516031816700" expanded="true" signature="2069:3019" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -321,7 +320,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6661000" />
+    <option name="totallyTimeSpent" value="6851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -725,13 +724,13 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="86">
-            <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding>
-              <marker date="1516031449767" expanded="true" signature="1253:1285" ph="//..." />
-              <marker date="1516031449767" expanded="true" signature="1345:1904" ph="{...}" />
-              <marker date="1516031449767" expanded="true" signature="2011:2043" ph="//..." />
-              <marker date="1516031449767" expanded="true" signature="2105:3055" ph="{...}" />
+              <marker date="1516031816700" expanded="true" signature="1217:1249" ph="//..." />
+              <marker date="1516031816700" expanded="true" signature="1309:1868" ph="{...}" />
+              <marker date="1516031816700" expanded="true" signature="1975:2007" ph="//..." />
+              <marker date="1516031816700" expanded="true" signature="2069:3019" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
