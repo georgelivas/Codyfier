@@ -1,13 +1,15 @@
 ![Image of codifier](https://github.com/giorgoslivas/Codyfier/blob/master/Readme_resources/logo.png)
+## What is Codyfier?
+Is a code indenter and beautifier. It correctly indents your code with 4 spaces and agings the comments at the end of the longest line of code. 
 ## Getting Started
 If you are using Windows follow the instructions under 
 [Using Codifier.jar](https://github.com/giorgoslivas/Codyfier#using-codifierjar). 
-If you are a Mac or linux user is easier 
+If you are a Mac or linux user it is easier 
 [Using Codifier.sh](https://github.com/giorgoslivas/Codyfier#using-codifiersh-recommended)
 ### Using Codifier.jar
 1. [Download](https://github.com/giorgoslivas/Codyfier/releases) the Codifier.jar
-2. Open a cmd 
-3. Navigate to the correct directory
+2. Open a cmd
+3. Navigate to the directory where the jar file is located
 4. Then type:
 
 ```
