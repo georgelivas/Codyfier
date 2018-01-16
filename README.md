@@ -2,8 +2,7 @@
 ## What is Codyfier?
 Codyfier is a code indenter and beautifier. It correctly indents your code with 4 spaces and aligns the comments at the end of the longest line of code. You can also visit the [website](http://georgelivas.github.io/Codyfier/)! 
 
-[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)]()
-## Getting Started
+[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)](https://github.com/georgelivas/CodeGen)
 If you are using Windows follow the instructions under 
 [Using Codifier.jar](https://github.com/giorgoslivas/Codyfier#using-codifierjar). 
 If you are a Mac or linux user it is easier 
