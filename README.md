@@ -27,7 +27,7 @@ java -jar "file's path"/Codyfier.jar "code's path"/code.txt
 sh Codyfier.sh
 ```
 
->**important: don't move the shell file from the folder!**
+>**important: don't remove the shell file from the folder!**
 
 
 
